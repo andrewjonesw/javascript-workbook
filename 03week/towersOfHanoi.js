@@ -36,6 +36,13 @@ function checkForWin() {
 
 function towersOfHanoi(startStack, endStack) {
   // Your code here
+//These are the variables that hold the arrays to access the start and stop stack.
+  const moveFrom = stacks[startStack];
+  const moveTo = stacks[endStack];
+
+ //We're calling this and not defining it. 
+  movePiece(moveFrom, moveTo)
+
 
 }
 

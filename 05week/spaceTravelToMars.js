@@ -9,7 +9,23 @@ let jobTypes = {
   programmer: 'Any Ship!'
 };
 
-// Your code here
+var ship = {
+  name: "",
+  type: "",
+  ability: "",
+  emtyCrew:"",
+  }
+};
+
+console.log(Ship);
+
+var ship = {
+  name: "",
+  type: "",
+  ability: "",
+  emtyCrew:"",
+  }
+};
 
 //tests
 if (typeof describe === 'function'){

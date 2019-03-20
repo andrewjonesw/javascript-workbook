@@ -6,3 +6,7 @@ Use the .pop method to access the token in firstStack.
 Use the .push method to move the toTolken to secondStack.
 If the token is less than the totoken or secondStack is empty, then the move is valid.
 If stack b or c has four variables, then you win.
+
+test
+
+T$EST
